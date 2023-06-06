@@ -1,0 +1,16 @@
+{
+  "Atelectasis": {},
+  "Consolidation": {},
+  "Infiltration": {},
+  "Pneumothorax": {},
+  "Edema": {},
+  "Emphysema": {},
+  "Fibrosis": {},
+  "Effusion": {},
+  "Pneumonia": {},
+  "Pleural_Thickening": {},
+  "Cardiomegaly": {},
+  "Nodule": {},
+  "Mass": {},
+  "Hernia": {}
+}
